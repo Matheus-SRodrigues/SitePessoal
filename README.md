@@ -23,8 +23,7 @@ Neste espaço digital, reúno poemas, projetos, podcasts e vídeos que habitam m
 
 - HTML5  
 - CSS3  
-- Amor pelas entrelinhas  
-- GitHub Pages (porque a poesia também precisa de hospedagem)
+- GitHub Pages
 
 ---
 
